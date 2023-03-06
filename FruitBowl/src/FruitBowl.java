@@ -7,7 +7,9 @@ public class FruitBowl {
         int totalFruit = scanner.nextInt();
         int Apples = totalFruit / 2;
         int Bananas = totalFruit / 2;
+        
         Apples = Bananas;
+        
         int Pies = Apples / 3;
 
         System.out.println(Pies);
