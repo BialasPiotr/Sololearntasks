@@ -7,7 +7,7 @@ public class PasswordValidation {
         System.out.print("Enter password to evaluate: ");
         String password = scanner.nextLine();
 
-        int numCount = 0;
+        int Count = 0;
         int specialCharCount = 0;
 
         for (int i = 0; i < password.length(); i++) {
@@ -19,7 +19,7 @@ public class PasswordValidation {
             }
         }
 
-        if (password.length() >= 7 && numCount >= 2 && specialCharCount >= 2) {
+        if (password.length() >= 7 && Count >= 2 && specialCharCount >= 2) {
             System.out.println("Strong");
         } else {
             System.out.println("Weak");
