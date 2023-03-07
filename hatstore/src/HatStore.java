@@ -10,7 +10,7 @@ public class HatStore {
         System.out.print("Enter the price in Dollars: ");
         int priceInDollars = scanner.nextInt();
 
-        int convertedPriceInPesos = priceInPesos / 50; // 1 peso = 2 cents, so 50 pesos = $1
+        int convertedPriceInPesos = priceInPesos / 50;
         if (convertedPriceInPesos < priceInDollars) {
             System.out.println("Pesos");
         } else {
