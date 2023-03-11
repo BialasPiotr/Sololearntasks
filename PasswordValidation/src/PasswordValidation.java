@@ -13,7 +13,7 @@ public class PasswordValidation {
         for (int i = 0; i < password.length(); i++) {
             char c = password.charAt(i);
             if (Character.isDigit(c)) {
-                numCount++;
+                Count++;
             } else if ("!@#$%&*".indexOf(c) != -1) {
                 specialCharCount++;
             }
