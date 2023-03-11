@@ -9,7 +9,7 @@ public class Candles{
         System.out.print("How many friends are joining your order? ");
         int numFriends = sc.nextInt();
 
-        int totalCandles = (numFriends + 1) * 9;
+        int totalCandles = (Friends + 1) * 9;
         System.out.println("You should order " + totalCandles + " candles in total for the holiday.");
 
         sc.close();
