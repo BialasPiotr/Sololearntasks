@@ -2,6 +2,7 @@ import java.math.BigDecimal;
 import java.util.Scanner;
 
 public class PiDecimal {
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int N = scanner.nextInt();
