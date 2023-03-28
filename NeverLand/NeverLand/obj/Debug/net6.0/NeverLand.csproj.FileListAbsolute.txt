@@ -1,0 +1,15 @@
+C:\Programowanie Csharp\NeverLand\NeverLand\bin\Debug\net6.0\NeverLand.exe
+C:\Programowanie Csharp\NeverLand\NeverLand\bin\Debug\net6.0\NeverLand.deps.json
+C:\Programowanie Csharp\NeverLand\NeverLand\bin\Debug\net6.0\NeverLand.runtimeconfig.json
+C:\Programowanie Csharp\NeverLand\NeverLand\bin\Debug\net6.0\NeverLand.dll
+C:\Programowanie Csharp\NeverLand\NeverLand\bin\Debug\net6.0\NeverLand.pdb
+C:\Programowanie Csharp\NeverLand\NeverLand\obj\Debug\net6.0\NeverLand.csproj.AssemblyReference.cache
+C:\Programowanie Csharp\NeverLand\NeverLand\obj\Debug\net6.0\NeverLand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programowanie Csharp\NeverLand\NeverLand\obj\Debug\net6.0\NeverLand.AssemblyInfoInputs.cache
+C:\Programowanie Csharp\NeverLand\NeverLand\obj\Debug\net6.0\NeverLand.AssemblyInfo.cs
+C:\Programowanie Csharp\NeverLand\NeverLand\obj\Debug\net6.0\NeverLand.csproj.CoreCompileInputs.cache
+C:\Programowanie Csharp\NeverLand\NeverLand\obj\Debug\net6.0\NeverLand.dll
+C:\Programowanie Csharp\NeverLand\NeverLand\obj\Debug\net6.0\refint\NeverLand.dll
+C:\Programowanie Csharp\NeverLand\NeverLand\obj\Debug\net6.0\NeverLand.pdb
+C:\Programowanie Csharp\NeverLand\NeverLand\obj\Debug\net6.0\NeverLand.genruntimeconfig.cache
+C:\Programowanie Csharp\NeverLand\NeverLand\obj\Debug\net6.0\ref\NeverLand.dll
